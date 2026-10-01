@@ -4,10 +4,10 @@ Windows release for Plants vs Zombies 3: A World-Class Adventure. Enjoy!
 
 ## Additions/Changes:
 
-1. Add a new world: West Europe. Discover new Plants and Zombies, and new gameplay experiences
-2. Add Achievements, with many stages of progress to complete
-3. Add a lot more Costumes, Stickers, and some other small aesthetic changes
-4. Add a radio to listen to some music
+1. Add some new Costumes and Stickers. Now all Plants have at least one Costume
+2. Adjust difficulties on some levels, specifically ones in Western Europe
+3. Fix level 30 of Western Europe. The level can now be completed
+4. Fix Costume functions and other stuff
 
 
 
@@ -26,7 +26,7 @@ Windows release for Plants vs Zombies 3: A World-Class Adventure. Enjoy!
 
 ## Fun fact of the day
 
-Male deep-sea anglerfish mates by biting into its female counterpart, then fusing its skin and tissues into the female. Multiple males can latch onto one female at any time
+The old definition of plants (dated back from Aristotle's biology) has algae and fungi as plant species. The definition has obviously been narrowed down since then
 
 Made with love ♡
 
